@@ -1,0 +1,12 @@
+.vscode/
+.pycharm/
+__pycache__
+.pyc
+venv/
+report/
+config.py
+*.log
+plain.output
+.idea/
+qa_run.log
+rerun_failing.features
